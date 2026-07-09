@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ilham Danial
 
-💻 Web Developer with 1 year of experience in ASP.NET Core, C#, and Blazor.
+💻 Web Developer with 1 year of experience building applications using ASP.NET Core, C#, Blazor, and SQL Server.
 
 ## 🚀 Tech Stack
 
@@ -16,5 +16,7 @@
 ## 📌 Current Project
 
 - 💰 DuitTracker
+
+## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilham0209&layout=compact)
