@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=docker,azure,flutter,dart,githubactions" />
 </p>
 
-*Clean Architecture & CI/CD pipelines* (no dedicated icon for these)
+*Clean Architecture & CI/CD pipelines*
 
 ---
 
